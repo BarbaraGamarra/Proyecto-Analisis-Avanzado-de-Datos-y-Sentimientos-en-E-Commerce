@@ -2,19 +2,6 @@
 
 Este proyecto analiza exhaustivamente datos de un e-commerce brasileño (Olist) para comprender el comportamiento de los clientes, tendencias de ventas y niveles de satisfacción basados en reseñas. El análisis incluye exploración de datos, análisis exploratorio (EDA) y un modelo de análisis de sentimientos para clasificar las reseñas de los clientes.
 
-## Estructura del Proyecto
-
-```
-├── DATA/                  # Directorio con los archivos CSV originales de Olist
-├── notebooks/             # Jupyter notebooks con el código del análisis
-│   ├── 1_Exploración.ipynb    # Exploración inicial y unificación de datasets
-│   ├── 2_EDA.ipynb            # Análisis exploratorio de datos
-│   └── 3_Sentimientos.ipynb   # Análisis de sentimientos y modelos predictivos
-├── visualizaciones/       # Gráficos y visualizaciones generadas
-├── dashboard/            # Archivos del dashboard interactivo
-└── README.md             # Este archivo
-```
-
 ## Instalación y Requisitos Previos
 
 ### Datasets
